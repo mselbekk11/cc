@@ -24,6 +24,15 @@ body {
     /* margin-top: 300px; */
 }
 
+.formm {
+    width: 100%;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
 @media only screen and (max-width: 600px) {
 
     .logo img {
