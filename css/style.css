@@ -6,6 +6,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .logo {
@@ -19,16 +20,14 @@ body {
     margin: 0;
 }
 
-.logo img {
-    width: 200px;
+.formm img {
+    width: 160px;
+    margin-bottom: 30px;
     /* margin-top: 300px; */
 }
 
 .formm {
     width: 100%;
-    vertical-align: middle;
-    display: flex;
-    align-items: center;
     justify-content: center;
     margin: 0;
 }
